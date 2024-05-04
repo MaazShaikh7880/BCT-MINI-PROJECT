@@ -1,0 +1,1 @@
+"# BCT-MINI-PROJECT"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/MaazShaikh7880/BCT-MINI-PROJECT.gitgit push -u origin main
