@@ -19,11 +19,11 @@ We are using randomly generated nonce in proof of work concept to acheive the re
 The reason to implement file storing using blockchain is its abilitiy to avoid any modification or deletion. No one can delete or corrupt our files that are stored.
 
 <h2>Project Screenshots:</h2>
-(https://github.com/MaazShaikh7880/BCT-MINI-PROJECT/assets/124548124/fbade3a9-864b-4ae9-ab92-4d286e2d5f41)
+(https://github.com/MaazShaikh7880/BCT-MINI-PROJECT/assets/124548124/fbade3a9-864b-4ae9-ab92-4d286e2d5f41)<br />
 User Interface <br />
-(https://github.com/MaazShaikh7880/BCT-MINI-PROJECT/assets/124548124/bf14580c-09d9-466b-8353-4b789f393942)
+(https://github.com/MaazShaikh7880/BCT-MINI-PROJECT/assets/124548124/bf14580c-09d9-466b-8353-4b789f393942)<br />
 Different types of file uploaded and added in the blockchain<br />
-(https://github.com/MaazShaikh7880/BCT-MINI-PROJECT/assets/124548124/07335f50-c9e5-4a46-9633-dae96d553bb0)
+(https://github.com/MaazShaikh7880/BCT-MINI-PROJECT/assets/124548124/07335f50-c9e5-4a46-9633-dae96d553bb0)<br />
 File downloading successfully
 
 
